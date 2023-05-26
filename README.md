@@ -10,5 +10,5 @@ A python program that generates programming quotes and jokes.
 
 ## Fork urls
 - `contributor-1`: [quotes-jaconelli-b](https://github.com/maxime-jcnl/quotes-jaconelli-b.git)
-- `contributor-2`: [quotes-bertrand-b](url-2)
+- `contributor-2`: [quotes-bertrand-b](https://github.com/blobinours/quotes-bertrand-b)
 - `contributor-3`: [quotes-essid-b](https://github.com/eYslem/quotes-essid-b.git)
